@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("test\n");
+    printf("This is the .c file running in the child process \n\n");
     return 0;
 }
